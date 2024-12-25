@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iniciando com DOM</title>
+
+    <style>
+        body {
+            background-color: rgb(111, 111, 196);
+            color: white;
+            font: normal 18pt Arial;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 name="h1-dom">Estudando Document Object Model</h1>
+    <p>Aqui vai o resultado</p>
+    <p>Aprendendo a usar o <strong>DOM</strong> em JavaScript</p>
+    <div id="msg">Clique em mim</div>
+    <script>
+        // window.document.write('Hello, world!')
+        // window.document.write(window.document.characterSet)
+        // window.document.write(window.navigator.appName)
+
+        //DOM selecao por TagName
+        var p1 = document.getElementsByTagName('p')[1]
+        document.write('Está escrito assim:' + p1.innerText)
+        document.write('Está escrito assim:' + p1.innerHTML)
+        // window.alert(p1.innerText)
+
+        //DOM também pode ser selecionado por ID, Name, Class e Selector
+        document.getElementById('msg')
+        document.getElementsByName('h1-dom')
+        document.getElementsByClassName()
+        document.getElementsBy()
+
+        // Nova forma, querySeletor
+        var d = document.querySelector('div#msg') // id #, class .
+
+    </script>
+</body>
+
+</html>
