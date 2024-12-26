@@ -50,10 +50,12 @@ Alguns dos conteúdos estudados:
 - Module
 - Functions
 - Advanced Functions
+- External Libraries
+- MVC
 - Async/Await
 - POO
 - Fetch API
 
 ## Projetos
 
-Os projetos apresentam README's próprios e vídeos demonstrativos/explicativos sobre cada projeto.
+Os projetos apresentam README's próprios.
