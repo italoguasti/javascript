@@ -1,13 +1,20 @@
-# Responsive Burger Website
-## [Watch it on youtube](https://youtu.be/PA-V-GxYa9w)
-### Responsive Burger Website
+# Site Responsivo (Hambúrguer)
 
-- Responsive Burger Website Design Using HTML CSS And JavaScript
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/73551d28-df2f-40c3-82fb-2a88ec986948" style="width: 25%;"/>
+</div>
+<br>
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+- Design de Website Responsivo de Burger Usando HTML, CSS e JavaScript
+- Contém animações ao rolar a página.
+- Rolar suave em cada seção.
+- Desenvolvido primeiro com a metodologia Mobile First, depois para Desktop.
+- Compatível com todos os dispositivos móveis e com uma interface de usuário bonita e agradável.
 
-![preview img](/preview.png)
+## Acesse o site remotamente
+
+- Clicando [aqui](https://burguer-website-italoguasti.netlify.app/) você pode acessar o site sem precisar rodá-lo sem usa máquina.
+
+## Agradecimento
+
+Agradecimento a [Bedimcode](https://www.youtube.com/@Bedimcode) pelo conteúdo educativo gratuito.
