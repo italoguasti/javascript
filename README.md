@@ -56,7 +56,7 @@ Alguns dos conteúdos estudados:
 - POO
 - Fetch API
 - Testing
-- Jasmine (Testing Framework)
+- [Jasmine](https://github.com/jasmine) (Testing Framework)
 
 ## Projetos
 
