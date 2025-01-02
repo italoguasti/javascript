@@ -55,6 +55,7 @@ Alguns dos conteúdos estudados:
 - Async/Await
 - POO
 - Fetch API
+- Testing
 
 ## Projetos
 
