@@ -55,8 +55,10 @@ Alguns dos conteúdos estudados:
 - Async/Await
 - POO
 - Fetch API
-- Testing
-- [Jasmine](https://github.com/jasmine) (Testing Framework)
+- Mock
+- Hooks
+- Testing: Manual, Automated, Unit and Integration Tests
+- [Jasmine](https://github.com/jasmine)
 
 ## Projetos
 
