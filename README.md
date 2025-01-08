@@ -59,6 +59,7 @@ Alguns dos conteúdos estudados:
 - Hooks
 - Testing: Manual, Automated, Unit and Integration Tests
 - [Jasmine](https://github.com/jasmine)
+- Intro to Backend
 
 ## Projetos
 
